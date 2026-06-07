@@ -1,0 +1,6 @@
+{
+  "name": "Nuestra Historia - Pichis y Anto",
+  "description": "Un espacio interactivo, romántico y multipágina creado por Angel Antonio para su amada novia Alicia Salas, su niña peshosha. Cuenta con un jardín interactivo de flores, cartas de amor mágicas guiadas por inteligencia artificial, cupones canjeables de amor y un reproductor de sus canciones especiales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
